@@ -1,2 +1,2 @@
 # palettes
-Useful palettes
+Useful palettes, mycket dank.
